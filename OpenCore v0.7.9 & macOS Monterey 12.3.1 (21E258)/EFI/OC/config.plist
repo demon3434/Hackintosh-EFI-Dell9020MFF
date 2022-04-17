@@ -433,6 +433,42 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+				<string>USBToolBox.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/USBToolBox</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>UTBMap.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
 				<string>USBPorts.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -1290,7 +1326,7 @@
 			<key>SystemSerialNumber</key>
 			<string>DGKPN01HGG7F</string>
 			<key>SystemUUID</key>
-			<string>0656C1E9-B91F-4CAB-B014-F3B117791F8A</string>
+			<string>CAC45649-D75F-4AC9-A19D-AC4F07AD2905</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1313,7 +1349,7 @@
 			<key>SystemSerialNumber</key>
 			<string>DGKPN01HGG7F</string>
 			<key>SystemUUID</key>
-			<string>0656C1E9-B91F-4CAB-B014-F3B117791F8A</string>
+			<string>CAC45649-D75F-4AC9-A19D-AC4F07AD2905</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -1368,7 +1404,7 @@
 			<key>SystemSerialNumber</key>
 			<string>DGKPN01HGG7F</string>
 			<key>SystemUUID</key>
-			<string>0656C1E9-B91F-4CAB-B014-F3B117791F8A</string>
+			<string>CAC45649-D75F-4AC9-A19D-AC4F07AD2905</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
