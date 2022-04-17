@@ -12,7 +12,7 @@
 | -------- | :----: |
 | 主机 | Dell OptiPlex 9020 MFF |
 | CPU | Intel Core i5 4690T |
-| 内存 | 英睿达 DDR4 2666 4G*2 |
+| 内存 | 英睿达 DDR3 1600 4G*2 |
 | 硬盘 | 创见MTS420S NGFF接口（Sata协议） 120GB |
 | 显卡 | Intel UHD Graphics 4600 |
 | 显示器 | DIY便携屏，4K 60Hz |
